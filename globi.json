@@ -1,6 +1,8 @@
 {
-  "format": "dwca",
+  "format": "rss",
   "citation": "Harvard University M, Morris P J (2021). Museum of Comparative Zoology, Harvard University. Museum of Comparative Zoology, Harvard University.",
-  "url": "http://digir.mcz.harvard.edu/ipt/archive.do?r=mczbase"
+  "url": "http://digir.mcz.harvard.edu/ipt/rss.do",
+  "hasDependencies": true,
+  "exclude": ".*(Subset|Test|Images).*"
 }
 
