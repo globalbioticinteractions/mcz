@@ -6,5 +6,4 @@ egg set includes egg of nest parasite,,hasParasite,http://purl.obolibrary.org/ob
 stomach contained,,eats,http://purl.obolibrary.org/obo/RO_0002470
 host species,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 physically connected to,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-Host species,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 found with host species,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
